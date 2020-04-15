@@ -1,1 +1,1 @@
-# lecture1: All tests code in class
+# lecture1: All codes tests in class
